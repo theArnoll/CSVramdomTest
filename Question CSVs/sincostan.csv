@@ -1,0 +1,11 @@
+direction,both
+count,2
+sin30,1/2 sin
+sin45,r2/2 sin
+sin60,r3/2 sin
+cos30,r3/2 cos
+cos45,r2/2 cos
+cos60,1/2 cos
+tan30,r3/3
+tan45,1
+tan60,r3
